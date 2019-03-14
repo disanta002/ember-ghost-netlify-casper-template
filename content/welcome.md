@@ -12,6 +12,9 @@ tags:
 ---
 
 Hey it's Drew!
+1. first item
+1. second item
+1. third item
 
 We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
 
